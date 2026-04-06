@@ -1,6 +1,6 @@
 ---
 
-# LinkedList Lab Project
+# LinkedList Labwork
 
 Bu proje, temel veri yapılarından biri olan **Bağlı Liste (Linked List)** yapısının mantığını anlamak ve uygulamak amacıyla geliştirilmiş bir laboratuvar çalışmasıdır. Proje, dinamik bellek yönetimi ve veri organizasyonu üzerine odaklanmaktadır.
 
